@@ -1,0 +1,31 @@
+sample_id,ethnicity,age,cycle length,BMI,Contraceptives,Smoking status,Vaginal douching,Diet type,Stress levels,Antibiotic use
+S1,Pacific Islander,41-45,>35,Underweight,No,Current smoker - everyday,No,Diet Type 2,Moderate,Last 2 years
+S2,Caucasian,41-45,21-35,Obese,No,Current smoker - some days,No,Diet Type 4,High,Last month
+S3,American Indian,36-40,21-35,Obese,No,Former smoker,No,Diet Type 2,High,Last year
+S4,African American,46-50,>35,Overweight,No,Current smoker - some days,Yes,Diet Type 2,Chronic,None of the above
+S5,Pacific Islander,31-35,>35,Underweight,Yes,Never smoked,Yes,Diet Type 4,Mild,Last 2 weeks
+S6,Pacific Islander,36-40,>35,Normal,Yes,Never smoked,Yes,Diet Type 4,Extremely high,Last 2 weeks
+S7,North African,41-45,<21,Morbidly Obese,Yes,Former smoker,No,Diet Type 3,Mild,Last 2 weeks
+S8,Caucasian,36-40,<21,Overweight,No,Current smoker - some days,Yes,Diet Type 3,Moderate,Last year
+S9,Asian,46-50,<21,Morbidly Obese,No,Never smoked,Yes,Diet Type 1,Extremely high,Last month
+S10,Caucasian,36-40,<21,Morbidly Obese,No,Never smoked,Yes,Diet Type 2,Mild,Last year
+S11,African American,41-45,<21,Underweight,Yes,Never smoked,Yes,Diet Type 4,Mild,Last 2 years
+S12,Hispanic,18-25,>35,Obese,Yes,Current smoker - some days,Yes,Diet Type 3,Extremely high,Last month
+S13,Caucasian,26-30,>35,Obese,No,Never smoked,Yes,Diet Type 3,Very little,Last year
+S14,African American,26-30,<21,Overweight,No,Current smoker - everyday,No,Diet Type 3,Moderate,Last month
+S15,Pacific Islander,18-25,21-35,Normal,Yes,Current smoker - everyday,Yes,Diet Type 1,Chronic,Last 3 months
+S16,Hispanic,26-30,21-35,Obese,Yes,Never smoked,No,Diet Type 3,Chronic,None of the above
+S17,African American,18-25,>35,Underweight,Yes,Never smoked,No,Diet Type 3,Very little,None of the above
+S18,Hispanic,26-30,21-35,Overweight,No,Current smoker - some days,Yes,Diet Type 4,Mild,Last 2 weeks
+S19,Middle Eastern,36-40,<21,Overweight,No,Never smoked,No,Diet Type 1,Mild,Last 3 months
+S20,Caucasian,31-35,<21,Morbidly Obese,Yes,Never smoked,No,Diet Type 4,Chronic,Last month
+S21,Middle Eastern,31-35,21-35,Morbidly Obese,Yes,Current smoker - everyday,No,Diet Type 1,Chronic,Last 2 weeks
+S22,Pacific Islander,26-30,<21,Normal,No,Current smoker - some days,No,Diet Type 1,Chronic,Last 2 years
+S23,American Indian,26-30,21-35,Overweight,Yes,Former smoker,No,Diet Type 3,Moderate,Last year
+S24,African American,46-50,>35,Underweight,No,Current smoker - everyday,Yes,Diet Type 3,Very little,Last month
+S25,North African,36-40,21-35,Morbidly Obese,Yes,Current smoker - everyday,Yes,Diet Type 1,Chronic,Last 2 years
+S26,American Indian,36-40,<21,Morbidly Obese,Yes,Never smoked,Yes,Diet Type 1,Extremely high,Last year
+S27,Caucasian,26-30,>35,Normal,No,Never smoked,Yes,Diet Type 4,High,Last 3 months
+S28,Caucasian,41-45,21-35,Obese,No,Former smoker,Yes,Diet Type 1,Chronic,Last 2 weeks
+S29,Middle Eastern,18-25,<21,Obese,Yes,Former smoker,Yes,Diet Type 3,High,Last 2 weeks
+S30,Hispanic,31-35,<21,Underweight,Yes,Former smoker,No,Diet Type 3,Very little,None of the above
