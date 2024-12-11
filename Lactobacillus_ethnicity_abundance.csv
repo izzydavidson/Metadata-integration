@@ -1,0 +1,61 @@
+sample_id,ethnicity,microbe,microbial_abundance
+S1,Pacific Islander,Lactobacillus_iners_abundance,0.45
+S2,Caucasian,Lactobacillus_iners_abundance,0.6
+S3,American Indian,Lactobacillus_iners_abundance,0.5
+S4,African American,Lactobacillus_iners_abundance,0.7
+S5,Pacific Islander,Lactobacillus_iners_abundance,0.6
+S6,Pacific Islander,Lactobacillus_iners_abundance,0.65
+S7,North African,Lactobacillus_iners_abundance,0.75
+S8,Caucasian,Lactobacillus_iners_abundance,0.4
+S9,Asian,Lactobacillus_iners_abundance,0.4
+S10,Caucasian,Lactobacillus_iners_abundance,0.5
+S11,African American,Lactobacillus_iners_abundance,0.6
+S12,Hispanic,Lactobacillus_iners_abundance,0.8
+S13,Caucasian,Lactobacillus_iners_abundance,0.85
+S14,African American,Lactobacillus_iners_abundance,0.85
+S15,Pacific Islander,Lactobacillus_iners_abundance,0.6
+S16,Hispanic,Lactobacillus_iners_abundance,0.6
+S17,African American,Lactobacillus_iners_abundance,0.7
+S18,Hispanic,Lactobacillus_iners_abundance,0.8
+S19,Middle Eastern,Lactobacillus_iners_abundance,0.8
+S20,Caucasian,Lactobacillus_iners_abundance,0.8
+S21,Middle Eastern,Lactobacillus_iners_abundance,0.7
+S22,Pacific Islander,Lactobacillus_iners_abundance,0.3
+S23,American Indian,Lactobacillus_iners_abundance,0.3
+S24,African American,Lactobacillus_iners_abundance,0.2
+S25,North African,Lactobacillus_iners_abundance,0.1
+S26,American Indian,Lactobacillus_iners_abundance,0.3
+S27,Caucasian,Lactobacillus_iners_abundance,0.3
+S28,Caucasian,Lactobacillus_iners_abundance,0.2
+S29,Middle Eastern,Lactobacillus_iners_abundance,0.2
+S30,Hispanic,Lactobacillus_iners_abundance,0.2
+S1,Pacific Islander,Lactobacillus_crispatus_abundance,0.3
+S2,Caucasian,Lactobacillus_crispatus_abundance,0.25
+S3,American Indian,Lactobacillus_crispatus_abundance,0.05
+S4,African American,Lactobacillus_crispatus_abundance,0.1
+S5,Pacific Islander,Lactobacillus_crispatus_abundance,0.1
+S6,Pacific Islander,Lactobacillus_crispatus_abundance,0.1
+S7,North African,Lactobacillus_crispatus_abundance,0.1
+S8,Caucasian,Lactobacillus_crispatus_abundance,0.3
+S9,Asian,Lactobacillus_crispatus_abundance,0.5
+S10,Caucasian,Lactobacillus_crispatus_abundance,0.4
+S11,African American,Lactobacillus_crispatus_abundance,0.1
+S12,Hispanic,Lactobacillus_crispatus_abundance,0.1
+S13,Caucasian,Lactobacillus_crispatus_abundance,0.05
+S14,African American,Lactobacillus_crispatus_abundance,0.05
+S15,Pacific Islander,Lactobacillus_crispatus_abundance,0.2
+S16,Hispanic,Lactobacillus_crispatus_abundance,0.1
+S17,African American,Lactobacillus_crispatus_abundance,0.1
+S18,Hispanic,Lactobacillus_crispatus_abundance,0.1
+S19,Middle Eastern,Lactobacillus_crispatus_abundance,0.1
+S20,Caucasian,Lactobacillus_crispatus_abundance,0.1
+S21,Middle Eastern,Lactobacillus_crispatus_abundance,0.25
+S22,Pacific Islander,Lactobacillus_crispatus_abundance,0.5
+S23,American Indian,Lactobacillus_crispatus_abundance,0.6
+S24,African American,Lactobacillus_crispatus_abundance,0.6
+S25,North African,Lactobacillus_crispatus_abundance,0.6
+S26,American Indian,Lactobacillus_crispatus_abundance,0.6
+S27,Caucasian,Lactobacillus_crispatus_abundance,0.6
+S28,Caucasian,Lactobacillus_crispatus_abundance,0.7
+S29,Middle Eastern,Lactobacillus_crispatus_abundance,0.7
+S30,Hispanic,Lactobacillus_crispatus_abundance,0.7
